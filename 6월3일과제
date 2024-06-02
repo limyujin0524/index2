@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <제목>서류</제목>
+</머리>
+<몸>
+ <h1>임유진</h1><hr>
+ <div>안녕하세요</div>
+ <div>클보 1-1</div>
+ <div>취미:축구</div>
+ <div>좋아하는 게임:발로란트</div>
+ <div>좋아하는 아이돌:빅뱅,여자아이들,엔믹스</div>
+ <div>새벽 챔스보고 새벽3시에 일어나서 지금 하는 과제</div>
+ <div>죄송합니다 허허 OTL</div>
+ <div>학교 등교까지 과외 숙제 해야해서 살짝 부족한점 양해 해주시면 감사합니다^_^</div>
+ <div>이해심 많은 선배들이 봐주실거라고 믿습니다</div><input type="text">
+ <div>좋아하는 동물:카피바라~</div>
+ <img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2F736x%2F92%2F90%2Fe7%2F9290e7f61d7f34f2f16766e090990c71.jpg&type=sc960_832" alt=""
+ 폭="300"
+ 높이="250">
+ <버튼>무기능 버튼</버튼>
+</신체>
+</html>
